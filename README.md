@@ -1,2 +1,14 @@
 # www-ball-pages
-HTML page archive and documentation
+
+GitHub Pages 文件记录
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
